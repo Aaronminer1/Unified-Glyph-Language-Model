@@ -419,5 +419,8 @@ output_text = translator.translate_to_text(model_output)
 - 90% reduction in attention computations
 
 Would you like me to create the accompanying diagrams for any specific component?
+![glyth production process](https://github.com/user-attachments/assets/c92a904d-8e98-47d9-983b-c2187fed164b)
 
+
+![image](https://github.com/user-attachments/assets/87531ab8-55f9-49ec-8a08-02749a364fb9)
 
